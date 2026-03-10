@@ -1,44 +1,41 @@
-<h1 align="center">Hi 👋, I'm Perisetla Sri Sai Yagnik</h1>
-<h3 align="center">AI Engineer Intern at Workfall | Data Science Enthusiast</h3>
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=700&color=5DA9FF&center=true&vCenter=true&width=950&lines=Building+Real-World+AI+Applications;FastAPI+%7C+LangChain+%7C+LangGraph+%7C+Data+Science;Turning+AI+Ideas+into+Practical+Solutions" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,25:00f2fe,50:a855f7,75:ec4899,100:22d3ee&height=220&section=header&text=Perisetla%20Sri%20Sai%20Yagnik&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20Intern%20at%20Workfall%20|%20Data%20Science%20Enthusiast&descAlignY=58&descAlign=50" />
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=PSriSaiYagnik&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=PSriSaiYagnik&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=980&lines=Building+Real-World+AI+Applications;FastAPI+%7C+LangChain+%7C+LangGraph+%7C+Data+Science;Turning+Ideas+into+Reliable+AI+Products" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/PSriSaiYagnik"><img src="https://img.shields.io/badge/GitHub-PSriSaiYagnik-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/"><img src="https://img.shields.io/badge/LinkedIn-Perisetla%20Sri%20Sai%20Yagnik-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/PSriSaiYagnik"><img src="https://img.shields.io/badge/GitHub-PSriSaiYagnik-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/"><img src="https://img.shields.io/badge/LinkedIn-Perisetla%20Sri%20Sai%20Yagnik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saiyagnik007@gmail.com"><img src="https://img.shields.io/badge/Email-saiyagnik007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 💼 AI Engineer Intern at **Workfall** (**Feb 2026 - Present**)
-- 🤖 Building AI apps with **FastAPI, Streamlit, LangChain, LangGraph**
-- 📊 Strong interest in **Data Science** and practical ML
-- 🎯 Focused on scalable, reliable, user-centric AI products
+## ✨ About Me
+- 💼 **AI Engineer Intern @ Workfall** (**Feb 2026 - Present**)
+- 🤖 Building production-style AI systems using **FastAPI, Streamlit, LangChain, LangGraph**
+- 📊 Strong interest in **Data Science** and ML-driven decision systems
+- 🎯 Focus: **scalable, reliable, user-centric AI products**
 - 📍 **Bengaluru, India**
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,git,github" />
 </p>
+
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-0B0B0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-00B386?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinecone-10B981?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-8B5CF6?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
@@ -55,7 +52,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 - 📄 **Document Intelligence Agent**  
   🔗 https://github.com/PSriSaiYagnik/Chat-With-PDF
 
@@ -86,22 +83,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PSriSaiYagnik&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PSriSaiYagnik&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSriSaiYagnik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 - 📧 **Email:** saiyagnik007@gmail.com  
 - 📱 **Phone:** +91 8500108898  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/  
 - 💻 **GitHub:** https://github.com/PSriSaiYagnik
 
-<p align="center">⭐ Open to AI Engineering and Data Science opportunities</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:4facfe&height=120&section=footer" />
+</p>
