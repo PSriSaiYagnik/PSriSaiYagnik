@@ -1,49 +1,88 @@
-<!-- Animated Header -->
+<!-- ========================= -->
+<!--   NEON CYBER PROFILE      -->
+<!-- ========================= -->
+
+<!-- TOP ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,25:00f2fe,50:a855f7,75:ec4899,100:22d3ee&height=220&section=header&text=Perisetla%20Sri%20Sai%20Yagnik&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20Intern%20at%20Workfall%20|%20Data%20Science%20Enthusiast&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,12:3B82F6,25:7C3AED,45:EC4899,65:F59E0B,82:22D3EE,100:10B981&text=Perisetla%20Sri%20Sai%20Yagnik&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20Intern%20at%20Workfall%20✦%20Data%20Science%20Enthusiast&descAlignY=58&animation=twinkling" />
+</p>
+
+<!-- ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1800&pause=650&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Real-World+AI+Applications;FastAPI+%E2%9C%A6+LangChain+%E2%9C%A6+LangGraph+%E2%9C%A6+Data+Science;From+Idea+%E2%86%92+Prototype+%E2%86%92+Production;Always+Learning%2C+Always+Shipping+Impact" />
+</p>
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</p>
+
+<!-- SOCIAL + CONTACT BADGES -->
+<p align="center">
+  <a href="https://github.com/PSriSaiYagnik">
+    <img src="https://img.shields.io/badge/GitHub-PSriSaiYagnik-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perisetla%20Sri%20Sai%20Yagnik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saiyagnik007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saiyagnik007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+918500108898">
+    <img src="https://img.shields.io/badge/Phone-%2B91%208500108898-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=980&lines=Building+Real-World+AI+Applications;FastAPI+%7C+LangChain+%7C+LangGraph+%7C+Data+Science;Turning+Ideas+into+Reliable+AI+Products" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/PSriSaiYagnik"><img src="https://img.shields.io/badge/GitHub-PSriSaiYagnik-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/"><img src="https://img.shields.io/badge/LinkedIn-Perisetla%20Sri%20Sai%20Yagnik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saiyagnik007@gmail.com"><img src="https://img.shields.io/badge/Email-saiyagnik007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PSriSaiYagnik&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/github/followers/PSriSaiYagnik?style=for-the-badge&color=2563eb&label=Followers" />
 </p>
 
 ---
 
 ## ✨ About Me
-- 💼 **AI Engineer Intern @ Workfall** (**Feb 2026 - Present**)
-- 🤖 Building production-style AI systems using **FastAPI, Streamlit, LangChain, LangGraph**
-- 📊 Strong interest in **Data Science** and ML-driven decision systems
-- 🎯 Focus: **scalable, reliable, user-centric AI products**
-- 📍 **Bengaluru, India**
+
+name: Perisetla Sri Sai Yagnik
+role: AI Engineer Intern @ Workfall
+duration: Feb 2026 - Present
+location: Bengaluru, India
+interests:
+  - AI Engineering
+  - LLM Applications
+  - Multi-Agent Systems
+  - Data Science
+mission: Build scalable, reliable, user-centric AI solutions.
+
+
+- 💼 Currently working as **AI Engineer Intern at Workfall**
+- 🤖 Building practical AI apps with **FastAPI, Streamlit, LangChain, LangGraph**
+- 📊 Strong passion for **Data Science** and ML-driven decision systems
+- ⚙️ Focused on production-ready architectures and real-world impact
 
 ---
 
-## 🧠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,git,github" />
+## 🧠 Tech Universe
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,git,github&theme=dark" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-10B981?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-8B5CF6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&labelColor=0F172A&color=06B6D4" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&labelColor=0F172A&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0F172A&color=EF4444" />
+  <img src="https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0F172A&color=F59E0B" />
+  <img src="https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge&labelColor=0F172A&color=10B981" />
+  <img src="https://img.shields.io/badge/ChromaDB-0F172A?style=for-the-badge&labelColor=0F172A&color=A855F7" />
+  <img src="https://img.shields.io/badge/Tableau-0F172A?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0F172A&color=2563EB" />
+  <img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0F172A&color=22C55E" />
 </p>
 
 ---
 
 ## 💼 Experience
-### AI Engineer Intern — Workfall  
+
+### 🚀 AI Engineer Intern — Workfall  
 📅 **Feb 2026 - Present** | 📍 Bengaluru, Karnataka
 
 - Built an AI Deal Intake System for conversational onboarding and faster qualification.
@@ -52,25 +91,32 @@
 
 ---
 
-## 🚀 Featured Projects
-- 📄 **Document Intelligence Agent**  
-  🔗 https://github.com/PSriSaiYagnik/Chat-With-PDF
+## 🔥 Featured Projects
 
-- 🛍️ **AI Product Recommendation Agent**  
-  🔗 https://github.com/PSriSaiYagnik/Product-Recommendation-System
+### 📄 Document Intelligence Agent
+Semantic retrieval and context-grounded Q&A over multiple PDFs.  
+🔗 **Repo:** https://github.com/PSriSaiYagnik/Chat-With-PDF
 
-- 🧠 **Multi-Agent LLM System**  
-  🔗 https://github.com/PSriSaiYagnik/Multi-Agent-LLM-System
+### 🛍️ AI Product Recommendation Agent
+YouTube transcript-based product Q&A + multi-platform price comparison system.  
+🔗 **Repo:** https://github.com/PSriSaiYagnik/Product-Recommendation-System
 
-- 🚲 **Bike Rental Demand Prediction**  
-  🔗 https://github.com/PSriSaiYagnik/Bike-Rental-Prediction
+### 🧠 Multi-Agent LLM System
+3 agents answer the same prompt; a refiner synthesizes a stronger final response with latency/source traceability.  
+🔗 **Repo:** https://github.com/PSriSaiYagnik/Multi-Agent-LLM-System
 
-- 📈 **Reliance Stock Price Forecasting**  
-  🔗 https://github.com/PSriSaiYagnik/Reliance-Stock-Prediction
+### 🚲 Bike Rental Demand Prediction
+Forecasting bike demand using temporal/weather features and ML models.  
+🔗 **Repo:** https://github.com/PSriSaiYagnik/Bike-Rental-Prediction
+
+### 📈 Reliance Stock Price Forecasting
+ARIMA/XGBoost based configurable forecasting pipeline.  
+🔗 **Repo:** https://github.com/PSriSaiYagnik/Reliance-Stock-Prediction
 
 ---
 
 ## 🏆 Certifications
+
 - **Artificial Intelligence and Machine Learning Externship**  
   SmartInternz (Powered by Google Developers)  
   🆔 `Ext-AIML-2023-73206`  
@@ -83,12 +129,19 @@
 
 ---
 
-## 📫 Connect
-- 📧 **Email:** saiyagnik007@gmail.com  
-- 📱 **Phone:** +91 8500108898  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/  
-- 💻 **GitHub:** https://github.com/PSriSaiYagnik
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:4facfe&height=120&section=footer" />
+  <a href="mailto:saiyagnik007@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/"><img src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/PSriSaiYagnik"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  ⭐ Open to AI Engineering and Data Science opportunities
+</p>
+
+<!-- FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22d3ee,18:3b82f6,42:8b5cf6,70:ec4899,100:f59e0b" />
 </p>
