@@ -1,45 +1,67 @@
-<!-- ============================= -->
-<!--  V2 PREMIUM GITHUB PROFILE    -->
-<!-- ============================= -->
+<!-- ========================= -->
+<!--   NEON CYBER PROFILE      -->
+<!-- ========================= -->
 
-<!-- Animated Header (Dark/Light adaptive) -->
+<!-- TOP ANIMATED BANNER -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00E5FF,20:3B82F6,45:8B5CF6,70:EC4899,100:F59E0B&text=Perisetla%20Sri%20Sai%20Yagnik&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20Intern%20at%20Workfall%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&animation=twinkling" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:38BDF8,25:6366F1,55:A855F7,80:EC4899,100:F97316&text=Perisetla%20Sri%20Sai%20Yagnik&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20Intern%20at%20Workfall%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&animation=fadeIn" />
-    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:38BDF8,25:6366F1,55:A855F7,80:EC4899,100:F97316&text=Perisetla%20Sri%20Sai%20Yagnik&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=AI%20Engineer%20Intern%20at%20Workfall%20%7C%20Data%20Science%20Enthusiast&descAlignY=58" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,12:3B82F6,25:7C3AED,45:EC4899,65:F59E0B,82:22D3EE,100:10B981&text=Perisetla%20Sri%20Sai%20Yagnik&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20Intern%20at%20Workfall%20✦%20Data%20Science%20Enthusiast&descAlignY=58&animation=twinkling" />
 </p>
 
-<!-- Typing Animation -->
+<!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=23&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&width=980&lines=Building+Reliable+AI+Products+for+Real+Problems;FastAPI+%E2%9C%A6+LangChain+%E2%9C%A6+LangGraph+%E2%9C%A6+Data+Science;From+Prompt+Engineering+to+Production+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1800&pause=650&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Real-World+AI+Applications;FastAPI+%E2%9C%A6+LangChain+%E2%9C%A6+LangGraph+%E2%9C%A6+Data+Science;From+Idea+%E2%86%92+Prototype+%E2%86%92+Production;Always+Learning%2C+Always+Shipping+Impact" />
 </p>
 
-<!-- Premium Social Bar -->
+<!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
-  <a href="https://github.com/PSriSaiYagnik"><img src="https://img.shields.io/badge/GitHub-PSriSaiYagnik-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saiyagnik007@gmail.com"><img src="https://img.shields.io/badge/Email-saiyagnik007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PSriSaiYagnik&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</p>
+
+<!-- SOCIAL + CONTACT BADGES -->
+<p align="center">
+  <a href="https://github.com/PSriSaiYagnik">
+    <img src="https://img.shields.io/badge/GitHub-PSriSaiYagnik-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/perisetla-sri-sai-yagnik-b227b0306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perisetla%20Sri%20Sai%20Yagnik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saiyagnik007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saiyagnik007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+918500108898">
+    <img src="https://img.shields.io/badge/Phone-%2B91%208500108898-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=PSriSaiYagnik&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/github/followers/PSriSaiYagnik?style=for-the-badge&color=2563eb&label=Followers" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-- 💼 **AI Engineer Intern at Workfall** (**Feb 2026 - Present**)  
-- 🤖 Building AI systems with **FastAPI, Streamlit, LangChain, LangGraph**  
-- 📊 Passionate about **Data Science** and practical ML outcomes  
-- ⚙️ Focused on production-ready architectures and measurable impact  
+name: Perisetla Sri Sai Yagnik
+role: AI Engineer Intern @ Workfall
+duration: Feb 2026 - Present
+location: Bengaluru, India
+interests:
+  - AI Engineering
+  - LLM Applications
+  - Multi-Agent Systems
+  - Data Science
+mission: Build scalable, reliable, user-centric AI solutions.
+
+
+- 💼 Currently working as **AI Engineer Intern at Workfall**
+- 🤖 Building practical AI apps with **FastAPI, Streamlit, LangChain, LangGraph**
+- 📊 Strong passion for **Data Science** and ML-driven decision systems
+- ⚙️ Focused on production-ready architectures and real-world impact
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Tech Universe
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,git,github&theme=dark" />
@@ -107,7 +129,7 @@ ARIMA/XGBoost based configurable forecasting pipeline.
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:saiyagnik007@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -119,7 +141,7 @@ ARIMA/XGBoost based configurable forecasting pipeline.
   ⭐ Open to AI Engineering and Data Science opportunities
 </p>
 
-<!-- Footer Wave -->
+<!-- FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,20:3b82f6,45:8b5cf6,70:ec4899,100:f59e0b" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22d3ee,18:3b82f6,42:8b5cf6,70:ec4899,100:f59e0b" />
 </p>
