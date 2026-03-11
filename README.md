@@ -42,22 +42,11 @@
 
 ## ✨ About Me
 
-name: Perisetla Sri Sai Yagnik
-role: AI Engineer Intern @ Workfall
-duration: Feb 2026 - Present
-location: Bengaluru, India
-interests:
-  - AI Engineering
-  - LLM Applications
-  - Multi-Agent Systems
-  - Data Science
-mission: Build scalable, reliable, user-centric AI solutions.
 
-
-- 💼 Currently working as **AI Engineer Intern at Workfall**
-- 🤖 Building practical AI apps with **FastAPI, Streamlit, LangChain, LangGraph**
-- 📊 Strong passion for **Data Science** and ML-driven decision systems
-- ⚙️ Focused on production-ready architectures and real-world impact
+- 💼 Currently working as **AI Engineer Intern at Workfall**  
+- 🤖 Building practical AI apps with **FastAPI, Streamlit, LangChain, LangGraph**  
+- 📊 Strong passion for **Data Science** and ML-driven decision systems  
+- ⚙️ Focused on production-ready architectures and real-world impact  
 
 ---
 
@@ -76,6 +65,30 @@ mission: Build scalable, reliable, user-centric AI solutions.
   <img src="https://img.shields.io/badge/ChromaDB-0F172A?style=for-the-badge&labelColor=0F172A&color=A855F7" />
   <img src="https://img.shields.io/badge/Tableau-0F172A?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0F172A&color=2563EB" />
   <img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0F172A&color=22C55E" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <!-- Profile summary + contributions insight (similar to first screenshot) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PSriSaiYagnik&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <!-- Contribution graph (similar to contribution graph in first screenshot) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSriSaiYagnik&theme=react-dark&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 📈 Contribution Insights
+
+<p align="center">
+  <!-- Overall contribution / languages by repo / languages by commit (similar to second screenshot) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PSriSaiYagnik&theme=tokyonight" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PSriSaiYagnik&theme=tokyonight" alt="Top languages by commit" />
 </p>
 
 ---
